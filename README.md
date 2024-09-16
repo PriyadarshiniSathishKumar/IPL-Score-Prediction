@@ -59,3 +59,6 @@ Huber Loss: This loss function combines elements of both mean squared error and 
 Scaling: Feature scaling is crucial in neural networks for faster and more effective convergence. Here, MinMaxScaler ensures the input features are on the same scale.
 
 Interactive Widgets: Using ipywidgets, a dropdown for user inputs allows for an interactive score prediction tool, which makes the model more accessible for non-technical users.
+
+![image](https://github.com/user-attachments/assets/c6a3f910-3dfb-48e9-9751-140d2ea721e8)
+
